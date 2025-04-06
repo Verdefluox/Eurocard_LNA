@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LNA_v1")(type "KiCad")(uri "${KIPRJMOD}/LNA_v1.kicad_sym")(options "")(descr ""))
+  (lib (name "LNA_v1-rescue")(type "KiCad")(uri "${KIPRJMOD}/LNA_v1-rescue.kicad_sym")(options "")(descr ""))
+)
