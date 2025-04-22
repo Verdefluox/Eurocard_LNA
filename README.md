@@ -10,7 +10,7 @@ A 1 Hz - 1MHz AC/DC battery powered, portable low noise preamplifier that fits a
 CURRENT CAPABILITIES:
 - Battery operated (four 14500 Li-ion batteries).
 - Selectable AC/DC operation.
-- IN/OUT connection via 50 Ohm BNCs.
+- IN/OUT connections via 50 Ohm BNCs.
 - Amplification down to around 50 microV (according to theoretical calculations and simulations) in full bandwidth mode (i.e. highest wideband noise).
 - Optional LP filters to reduce BW (around 200 Hz/20k Hz -the second good for audio purposes-, selectable).
 - SMD formats chosen to be as far as possible compatible with hand-soldering (R and C are mostly 1206 format -with very few exceptions, which are 0603-, ICs are SOIC, transistors are SOT).
