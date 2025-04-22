@@ -3,6 +3,7 @@ CONTEXT: v1 is still considered a work-in-progress, and I designed it to compens
 Aka: I lack professional testing since I don't have the proper instruments to do so, and if I had them I would not need this design. Hence, my personal use is to build it and use it as a preamplifier for my USB oscilloscope.<br/>
 DISCLAIMER: HP filters and selectable Sallen-key LP filters may need some adjustments, as some general adjustments here and there.
 
+DESCRIPTION
 A 1 Hz - 1MHz AC/DC battery powered, portable low noise preamplifier meant to be built on a Eurocard PCB (100x160 mm) and meant to be used for general purpose amplification (as an additional help for particularly noisy oscilloscopes/lack of proper ones). It is based upon four JFE2140 differential JFETs working in parallel to reduce V-noise, with gain set via non-inverting op-amps in two stages, giving selectable x100 and x1000 V-amplification.
 
 CURRENT CAPABILITIES:
