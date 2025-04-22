@@ -4,6 +4,7 @@ Aka: I lack professional testing since I don't have the proper instruments to do
 DISCLAIMER: HP filters and selectable Sallen-key LP filters may need some adjustments, as some general adjustments here and there.
 
 A 1 Hz - 1MHz AC/DC battery powered, portable low noise preamplifier meant to be built on a Eurocard PCB (100x160 mm) and meant to be used for general purpose amplification (as an additional help for particularly noisy oscilloscopes/lack of proper ones). It is based upon four JFE2140 differential JFETs working in parallel to reduce V-noise, with gain set via non-inverting op-amps in two stages, giving selectable x100 and x1000 V-amplification.
+
 CURRENT CAPABILITIES:
 - Battery operated (two 14500 Li-ion).
 - Selectable AC/DC operation.
